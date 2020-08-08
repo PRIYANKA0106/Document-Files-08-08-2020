@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
-copyright = '2020, APSSDC'
+project = 'Soucecode management - Apssdc'
+copyright = '2020, PRIYANKA'
 author = 'APSSDC'
 
 # The full version, including alpha/beta/rc tags
